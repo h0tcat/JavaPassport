@@ -1,0 +1,10 @@
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\bin\Debug\JavaPassport.exe.config
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\bin\Debug\JavaPassport.exe
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\bin\Debug\JavaPassport.pdb
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\obj\Debug\JavaPassport.csproj.AssemblyReference.cache
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\obj\Debug\JavaPassport.frmJavaPassport.resources
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\obj\Debug\JavaPassport.Properties.Resources.resources
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\obj\Debug\JavaPassport.csproj.GenerateResource.cache
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\obj\Debug\JavaPassport.csproj.CoreCompileInputs.cache
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\obj\Debug\JavaPassport.exe
+C:\Users\hayab\source\repos\JavaPassport\JavaPassport\obj\Debug\JavaPassport.pdb
